@@ -4,7 +4,7 @@ import {BrowserRouter,Routes,Route} from 'react-router-dom';
 
 import Home from './pages/home/Home';
 import Header from './components/header/Header';
-import Login from './pages/auth/login';
+import Login from './pages/auth/Login';
 import Register from './pages/auth/Register';
 import Verify from './pages/auth/Verify';
 import Footer from './components/footer/Footer';
